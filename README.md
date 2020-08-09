@@ -14,5 +14,5 @@
   
   If you are using fewer than 4 plates, the number of wells for the unused plates should be set to zero.
   
-  
+Source code is included in Brute Force Collision Detection folder.  
   
