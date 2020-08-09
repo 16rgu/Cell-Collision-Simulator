@@ -4,7 +4,7 @@
 
 1. Download the .jar file
 2. In Command Line, type:
-  java -jar [path to simulator.jar] w1 w2 w3 w4 cell test
+  java -jar path/to/simulator.jar w1 w2 w3 w4 cell test
   
   where w1, w2, w3, and w4 are the number of wells in plate 1, 2, 3, and 4 respectively
   
